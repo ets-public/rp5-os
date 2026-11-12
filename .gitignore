@@ -1,0 +1,6 @@
+# Never commit device backups or images
+*.img
+*.bin
+backups/
+rp5-backup*/
+battery-*.csv
